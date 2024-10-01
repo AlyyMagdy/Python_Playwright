@@ -18,5 +18,5 @@ python -m robot .\Tests\Registeration_And_Login.robot
 python -m robot .\Tests\API.robot
 ```
 
-## Fetched Endpoints
-After Running the GUI Test Case , requests_data.json will be updated with the new data.
+### Fetched Endpoints
+After Running the GUI Test Case , **requests_data.json** will be updated with the new data.
