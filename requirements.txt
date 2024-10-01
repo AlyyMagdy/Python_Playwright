@@ -1,0 +1,3 @@
+robotframework
+playwright
+python-dotenv

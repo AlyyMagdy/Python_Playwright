@@ -1,0 +1,839 @@
+[
+    {
+        "url": "https://courses.rahulshettyacademy.com/",
+        "method": "GET",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://d3gvvapon6fqzo.cloudfront.net/bootstrap/bootstrap.min.css",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://cdn.lukej.me/flag-icon-css/0.6.0/css/flag-icon.css",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/assets/bootstrap-a14e0219bff457941c01e229139fcb9f4709e289d96efa3a24bad96561d56e6c.css",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://themes2.teachablecdn.com/themecss/production/base.css?_=5e2cbf952f67&brand_course_heading=%23ffffff&brand_heading=%232b3636&brand_homepage_heading=%23ffffff&brand_navbar_fixed_text=%23ffffff&brand_navbar_text=%23ffffff&brand_primary=%232b3636&brand_secondary=%2309A59A&brand_text=%232b3636&logged_out_homepage_background_image_overlay=0.62&logged_out_homepage_background_image_url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FkItS8rO3T7CX22mgAxJb&show_login=true&show_signup=true",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fast.wistia.com/assets/external/E-v1.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/packs/student-globals--1b9bb399c9fefbb1b77f.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/packs/student-legacy--e476eb118bf63cfa5d11.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/packs/student--f5c22e6ba26cad43d241.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://rahulshettyacademy.com/assets/images/rs_logo.png",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "_afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/36X2X8fsRsC042XJQs6S",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/sLVgDa8kQ1SncAbyxjpk",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=skBXGX.ea7ap_HUCaF3sYNkdLx2tXnFfOPHKOIltIRc-1727809227-1.0.1.1-YBRoRHSs7C.1KoouI0msB5qcgZ3fgdtyajcNJVEULMlLUzsvpAkWZu3InxnQrTi1cXzM1UwVPhyht7TLx.L5zw",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:30,height:30/https://www.filepicker.io/api/file/mlKlVmXOTcipajjCM0qd",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=Tkeh.E3mT1hDr9YGHZmXD.oj9xZL0NV9.j2s1Ztn4V0-1727809227-1.0.1.1-l5MYuK8_9TfIcgRgWR0nge51HKHA4trDKNqzEJDtQufa_VrQSZ6znSORS9ziHkQ_xmKHkjALPzum9N272lKKmw",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/itiecdoXQ4Ox1prd86VF",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=Tkeh.E3mT1hDr9YGHZmXD.oj9xZL0NV9.j2s1Ztn4V0-1727809227-1.0.1.1-l5MYuK8_9TfIcgRgWR0nge51HKHA4trDKNqzEJDtQufa_VrQSZ6znSORS9ziHkQ_xmKHkjALPzum9N272lKKmw",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-SL8LSCXHSV",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:30,height:30/https://dujk9xa5fr1wz.cloudfront.net/user/100x100/5997742_a60f_38.jpg",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Oo4o9b0Q2iXk8WNvf0GC",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/ZIDmoy0wRW0xoiNJc1HD",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/EHNvJZiTZaHSTUusirJM",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/analytics.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://api.filestackapi.com/filestack.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://js.stripe.com/v3",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:30,height:30/https://dujk9xa5fr1wz.cloudfront.net/user/100x100/5997742_a60f_38.jpg",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.filepicker.io/api/file/kItS8rO3T7CX22mgAxJb",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://assets.teachablecdn.com/fonts/metropolis/Metropolis-Bold.woff2?v=1",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://assets.teachablecdn.com/fonts/metropolis/Metropolis-Regular.woff2?v=1",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://assets.teachablecdn.com/fonts/metropolis/Metropolis-SemiBold.woff2?v=1",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cf-fonts/s/lato/5.0.18/latin/400/normal.woff2",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cf-fonts/s/roboto/5.0.11/latin/400/normal.woff2",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cf-fonts/s/montserrat/5.0.16/latin/500/normal.woff2",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cf-fonts/s/montserrat/5.0.16/latin/400/normal.woff2",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-SL8LSCXHSV&gtm=45je49u0v9187626857za200&_p=1727809228881&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101671035~101686685~101747727&cid=34415941.1727809229&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&uid=&sid=1727809228&sct=1&seg=0&dl=https%3A%2F%2Fcourses.rahulshettyacademy.com%2F&dt=Home%20%7C%20Rahul%20Shetty%20Academy&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.school_id=9521&ep.school_domain=courses.rahulshettyacademy.com&tfd=4012",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://dialog.filestackapi.com/dialog/comm_iframe/",
+        "method": "GET",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.filestackapi.com/dialog/comm_iframe/",
+        "method": "GET",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://eventable.internal.teachable.com/add/fedora-student/",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "content-type": "application/json",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        },
+        "post_data": "{\"noun\":\"user\",\"noun_id\":\"2ba5d395-ea9a-4361-90b4-f029814442d2\",\"verb\":\"page_loaded\",\"created_at\":1727809229242,\"meta\":{\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\",\"fingerprint\":\"2ba5d395-ea9a-4361-90b4-f029814442d2\",\"path\":\"/\",\"referred_from\":\"\",\"url\":\"https://courses.rahulshettyacademy.com/\",\"school_id\":\"9521\"}}"
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000; _ga_SL8LSCXHSV=GS1.1.1727809228.1.0.1727809228.0.0.0; _ga=GA1.1.34415941.1727809229; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%22db577776-a173-4488-853a-5a83cd4d5f7f%22; aid=2ba5d395-ea9a-4361-90b4-f029814442d2",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cdn-cgi/challenge-platform/h/g/jsd/r/8cbeb214e8e55249",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "content-type": "application/json",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000; _ga_SL8LSCXHSV=GS1.1.1727809228.1.0.1727809228.0.0.0; _ga=GA1.1.34415941.1727809229; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%22db577776-a173-4488-853a-5a83cd4d5f7f%22; aid=2ba5d395-ea9a-4361-90b4-f029814442d2",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        },
+        "post_data": "{\"wp\":\"P5NtVimnV9NVlsomrmIpHtiMpD2pjajffinmhXpUzMYzRNpEUQ4oz9mqplrNGe55pDufpOpfMfNmp-fmgoAtu95C06tUzJ52D8qIsG+tgJVK21m8XUujpVNNLjEiCepBGeR7Cp7tsEpiKNpjtiitJltjpmzpH9dpm1Cp$ynDG5QmDueNpiyCpio4HmWT7UpatijF35pnd5zsRUF-Gp4T7uJaDtpSuaRjN5PTu9WTx4pW8BjpiR-ALsw4KzpvuyuHgomsjcK48Bu41B3CAB-T31wO+tpwN4tVnUCH7GKpURHY2XwectPiQCx5zr1ZrCSrtBOTtOhfp5FnfpmgZ5P+Si39wDLStpejodTjgVrilh$FMm-YJYICQzZ$IZDaEZMr-SplKN+VlF$Jaui5fmZGsxlsvo+tFEK4L3Ha6VD1UppPq184s48go7pcVdbNssK1j24lZoCBBpEeI7IKTipmaY$N4mppPISqpfXtfzJ5Mppqqouu5pZd0qobuwp6wtZ9uxBt795fmOGsNGdrKS-5fNfX40YggB1ipSjKmIoCPwsHX1pF1Y5LrKoEHfIXECs1D5Ba$wsSXozPcXaKesrKpzKuiX8xgfel0Vfavy1rmJVidlt4pVCi5fXjfqUjMieDyAo02I3tK6Wb3Vtb$bgD67c7P$Mjy1jL1jyKxaX3t0wfVilHVlrL1QH0dpq5EOfBmlV$XiYUCmp4VSj5nptnpaX4Xi+2zbfzGp9DdDt-pQUtPi+CS9pQPU+jCFzZj5mt-pE-yTv5Ut7tOdtCG5lJCVlLScUUfpJtCPpllEpqUiNRVepJ72S$RmdvVRic4459i5lEcia+tFsQmFNpaof7t3UFFU-Htltc75-EDftsUll5IDe+2c7zptnJ6efIsSGRhtzpyciRPRpmv-pNUCSuC75qmSosbwKUtouCxU-UUJS9p-7tH74Gt7tzDtMmvBWsVRvgjgFefQTUHUD1FxtYpFvJPiSj1ip4soHaN-Scpn94FGyJNZU5TpYTCK7mtlohdjNDRP4lHSGJU9N$fNUFqpQVSpVZSBVBlZDdGz$fpNvRptJznXOBt4s8NzbD2djrT5uF7sCiiM63qiX38adFtt$jKmybJuLhjE7P2pKSi58s$fp4v4CSzV5CslHteB7R1CVm$JzjOEFtwrNt+hUfJEgNVfTjyufFpNGMSf39y6sSNMNVfq5jS0NEntEUecmTlIIoAP2LVUGtT5zUI$adoNXdR8BXPH$4QyrefYTnyHHtC-AiinAI4JnDPspwff$pzsU9EEoU+h5G90DnJUEfjGSOsR3+4fxTf10R4MEwiGpdf7pfjKJRuGJs48JCJUCKo+Ztv0JDsWg-F364-WG6DJY5UKzBWbfRAH4fS4tnsHCCCBQOS42rdfnidpI4wiHST10nhSjRRKamOvG3PGBFhp-bJ04N$Iqmxl7bCPssS2QwSi54$G2dr0zZBSiXfQ-2X4W21BZuwMcGjL9N4Ir7yNnAIhZCJp7MpOEyFVCEX4zrSyMiX3RpVjipx1Xdy2aCfQrD29r2a+ltSfRVAigH2+$G8e$Wa3FUptbA8cPjaKznZ7tWHPisesU-8U85rr5g8U-$m2iRGT7tzfFfKv3T3u+4vgoO7nJGxTR9qfxlpX4vGON3A8lEpTqo+dHi6dSRuCzL2ue12STfFzDaqf1twS7pIm7lhJp5N9GtZNUtKNPsFehVJq80+fRzBsRpWi1uKZdV7Kf-m2iLVU6lT9npzmmJiqo4fD5oVC2z-HHrSQ1tvV5NlKp4uoNiREptBjBtz2J45XNaN-UOdDOKtzR7Hf3SgHSofUdtwCdzJ9HSzfDw2GAiyPE1JEfsF5THFEqMvBUmaaoPl5Rmsyg4EedtZa4Szq6T$fEM7Mwv2jMzwNPRRUdqPm$LTlLMj5JoKCRsGtitnGnVg9TfZzVa2UhSehNd1hOtHzfmh4O8FDUQf$7UX7Sf$mPI3EtHSnBYJOqloblNilEp-EMvKOlnJ7dVJ40q9jmsCqlHqqosncmrKniqFetJui3S$SPeidOf8yi4imnUd9dQIVZS9oqjO9agJ78$mdCUnJ+uCDfifDt2PfqUmjmj1dS22mWM40SjsSUEmQTeOyRtjpjHjwtHTodBu9Te0$d13RjsOgz8f-sNBG$xpUiNl56dexTj5JF+tRBNxjN7Dm8H6dYec5UJ5KBBDx$uB-axxjehKnXjls5VcJDFx1a7shJCjRQVwTlf4R9MFqJ6R5VfBsB$ChjNQ0xEyMOFv6ZC4Alvun49zViZA6zPZB2-5eeP43sNHdNzUf7Gwj$uFYZ18yxjdt63QyK0HZ1j852UpeJ3ZZQfXma5D0IxhGKuA$YCsHBC$rZ+qZz83sl5$OVbq1Yw4f+nwKhZYONxjzMsmSDz0KlEZPmmHLJBG4l8Wm3xlUZT7SbLocKyRmovaciju94T88mfJ3$ExrwM0Jzsj3yNGqe6JrrP+7w9c8F3W2fqJa4I0b-$W86c-t$V3OTnVR8XSSl4or7Vx$fOq0taso9js9BdmPK2yhCDv1SFq6aKpv9KNUTzgDcPHx4Yymq9g0ppp0sh0uWiz74RCfZv4SvJNApyXtbVZ4p9GKC7w2GmXd0MuOAtrUzVAFI3aFKdpJodw-ZM8jvl$zI8dn3lf3yTB9Fh+jCz6m+x6TVjyKnDV4izCM4HsMvdx+NiY+Lq1VqGLiMNpRtdHqcORT7jFw8oyTO1JnLhJrwg+olLPBRJNnfirVhFjtGt9pS7LmNVM$MwzGzEBjQgyK58hLl6jGKYAJGd8CjtayYH+KARHKXTF7x9ZQFq7N8BAHHdqwJ9fDhYtH+D81+trBFxtGZzA+x3mvwUqotm3uf7XDue1oC8Q51IwxHK0C+nK11djpYXWlTHDEHY$oGE+yHjSclZACm3L-35cJmBCPXzE32+GTooI8Up5Ut8notaFsBA7RxH2ZnxyP-rKQ1rplUZh-cPbERifWpMfcgmsVRnSEifTtx9-maGd+jtdrOdP9DSBBxf5X5Rs-U$DyuippmZqjORO77UF8uRA1PAGFzFvSPOxgzCm5Wz8mQqJCKUwOrzKQUVCgddFNTx$J-GYsaNudvid9xvRW7KnHTC89ieOT9jPpfKBwl5e1KAYCZDQTqjCGtqw6eGPWDewP7-mA$u0FmHpuMsn-yLQCpPaBvLZeSNIYpBz14ojBCnamHm9i7U-JzRnd$nZ59HaClxTaeBIb0GaNa-g85HJAOaEDxO4xZUPUbXB2PSVpIra1BltjH3NNqFNSwDEb39eVic2vmzbJcQqP$XY$vBvxIztXhp92l-tcYsPsI2Zcg9+INi6D$nAYaMfdc776O2505OGySKjmUC6TWdvSam8QV1ncXbtEbTs49+a6C6mbRY7cgHSLHJWDtKAsTPdBX-FBTL61TEB$caW0yRwA5byp1ZpD+USA53aH5B1Dv3LP1Z7Z7A5NUr7IjApeVSGw1NsCxSD-vh1MxRxAmVc7RmvxFI$j1g9T1NGM7MxSGMvRF4GRvCjF7Afe7by+t4UV7A11FSVM+C7byPvDMnGK7KHsF9m1LP5iGuL5UiDN+fDdU7i67jDQmqxQDA7H9lUV1VF5jeUB1OlyGbRwFaDIFvfI5Rj0FPcb5ZDVcjj4mPcHaKlV5GvELrs0a7lA5tcCDXxPwgD-s$HPwXF$RHvWU4i$UA5tlOUb5tluLP5tLjUMUf9CdN+MDS9xxRUNLAL2URsCUV5tLH2JLPclL-7Acgxsc3+ZFdlbcU+OUA54lnUJ7b5zlpsNVz9P5A5elg7bceL+tucn9OdQ+5jBMjy3sDViLPydLW5Vc0yj9wUaLu5Qxo7dGn7vLiMuGvlJlAc9+hl+RPcts5GD+-S3muyZL5fwUb5WlcLWLuvHGqDclUf-l4lnJTcHcx9TLPGm9XlTLTsTc1D6yM9QsP1RlFlFc19Ll6fV5M7AlL9s+sGpEJUB5A9BlsGpghL+GiSSKP+LDBGpgSD0lV5A9asNKP9VL5qpqJG7K1LMs8sw92DwswlnJu50s6D65TsZIYUilbyoE$+clcU6DYL1jl7B5Y9OSzEb1iEnwxUV1dgD70l3USGCiKsK5ss1R7g4tA9baVIXyJiqcc1+5sHK5oF0JXf0fXJXj9gUag5jg3sZ5ry4DwGZqdMalBUL1HdwFwpYjrJImgj3mA$rd-gxuAi9goRQLvjKVWxWRImUiCj2KzMOERdrtmwjfqfiR6dCJsIjNadepF+eifppVzOL$zZ5itcpEfWEDpUz5Odtf9XU87zfG7ufLUR$$ampulEfBS6NslbOipAznfjUtf0UnNMi-lA7zdCp6f87taJpzQo73f-l3U1iGD95Q9s$wLjpSiqfTfYeP-mvnt1WxocoteUMPnspotud5nMpPaviuOGe$zyzS4s13oH$4fmUPtmpOnlnKoL9sejDVfrF1WA1B1KNCWPWZWIUV1RjmFyeMF2FBtb1O23Uy5JpVn41Cphf8SzERputuE6UPp4mOsFU+yORnpwa8MjpwNWEY-Np2s1fVO950$pEHCKsmZFF1nbfaz39MpaoRpDyJUcsHtvdlCvJP4Cmmon49jzfZa7jT51f9dbnfeefLyNjegVvU1OiQ4nyCpUtYfpvaCszhjzegK1iQruMCpfmDpD4Z4fEdDHSVoKZ+ts$DgNtLmH7G4Yo6rutb$onutppuE3U3V5NyGTGECyKlGZt7s5iM4zKlHGDts5NlwfslV148DtoJLn9J-J3HpK43iJPJltot0SXJns48NM0YpIizftGLLlG5qRG58L3B6SmB45N7RMJ6Vxe7N7GMJzoj6JD-dJGKPmnhmC6Qufi1ete9dKB+DJBLoPn0uuNKjJOPlcRPJJZoDoi44CievSi8Zt0qp+i8wfpLJd00iFozUFNKLyOv3RUaNzEFiwECOzvTuhmy$AH6$3XmsNmFEaozsrlZE2x394XZFAltoA42d1xPBKZtNVftHAVTCR+t$V48GSOTm3TpRV3VBWPUUeNUVlVfU7vzmsjWwTFO04GJDNUF-sjOjpslRBCw6zpwLqU2KNGMRI75Gd2CsH84H3Oaq6DLp7Uam-C1lFoAXAdQ$8GZ8+Php-lNjpHAPUmXi9gpdvT5HPGJPHVupUqUD-xs66guPvKlDMsWsx+qCs3RN+T6Grnyv+wfVuiUuCUyR++tHAXzXUX+jpoGicLu-4icnUPCsTGCw+wfUemEm9Pc6FpIouoGwcfING6zDWiGltjpouHGLGfGJEp-GGZG6zDqnq+tGILXDtsq9GwfHq+2H$RdOqjq6zm9mCfL$gmn8qjpiQoSPGZt$T-T+tNYjtou$Y6Tfx9N$-TVOHVfmYnuVfOf75mw$ND8XVD-2XZ8DXwfUxwSGUpIRAJ1NMK+DxJqRyOw$Ug8P+64PAsHmcf6wc2xoQVzVGDO75$YU6nQo1GDx9mcJ6ZsG386-ivgVfGzU8mK8HX9$h6tOS$0J1thOSP4$N$2+tOABH8R3IUYRKsmGVn0Fu3ultaqUHNUi5szDqifp2+wKfd1CLZfxK$UxVjpmwGMobUHV5$CK+NI-6mEZf1wRfAzHvXVHKGtojxtpN$4Vli5N06nFRG6pNG5puVuG1XlufoNSus5mx9JeLjpsN1to+3cN1UNI5VlOf7HVl4Mg7IlXfDtiKgV4K4escHIKSW7b75lStGPwsJsj5pCRFLNMlSlQNUlaJU5IlDyJN0AvfRMF-BVnfSLX0VNGlgtH5bn-wG5SWJHjfQUyUzTXRU2CUaFPU5UyfA6ofiA+tOfXqXmpEaTDTmTsTPiDHeWFyU4KJuw-X+mGESAt4arq28EI4S2PEhsK4I0TM$4GbHJ7SYMPiVlNG7bi1OqlInIJzbzzeV8vl23BHCfbza5mQ9lEaUlGgt8OyqocSrxsK8E1wXz5cLSOoM7bHifUx3AGJmMs3JBH2NnYHG5T6mebA4NEEceIlVuOOFHZg91NnrQSxGMDIXcweYzIlN3ifpIme50jJtLNnyoMbxzbzz8LwXQQQzi1QclMwJeYcndbzr+szxsXsNnhnVQrYdt$dWwXZxnyBVy3HUsG1Nsos$sP$xtVjbyefJyUxp+6zP04arEEbGp$bObsXi4rJN7O4WLCzAaaspeysx3ufUsH9VSG5P9tBl3Vl-Q8ab$Sdc$1fDHqIOy$4DNDYUaIlLK$KOaAj5QszUgjpRI$+O+R+sHetWftCiEiNWJ4FotaNSlafP+otSGLcJsL5GKVT7BigsrTSGz4aD4tMNDbKohoGmUqzwDQDWGFlgtHyctpecDM3PS$gzgSBXfi5O75Dzl$fPRsEyc+alcO$MZysvluUzUcl2PsFLaY5E2K$AaqZrE5DreAZzEiEGwL5HziEHrzOSyg5Pv7tHrbM-+-7F5DxilYFxrrxs$5XpOMgQCQcg8R9StDCycJCreACYOy1iCWyvx$1iyOS1SUFD-MVfKH2pCMeECy1Rn5KU-rdbAu-AcKHNxsrWCy1sWSxDWb0$6wWhlsiYWrtomAWrW15Us9Djtm1HmWSD8Ux62RM2ym4M+fDMgzs6EQaq6XlQ2WuOSYQ5cmhZR0ebVoMmNG6$4oe-W55PhDKsVJ2gtHCzMI4vMyXTFl09B$KPXwuU7KNUtXwPMQMcMM2JyPX3MQPmNPZAqPMafDHdNYfofsjAMWMRSVOAHszhCUyRdQfOMczPj0YUdcJbHXmNU$8NMYjBf0O3z9KpghUEsXMKZA2AHwghl0SMfCyOFScJdKNNHXHqL5j01cxXxmofjCs1P$XfsPi$-46v4GsI95KQKI8KG$DzFUKAiOrWSPoMqHsIK5eSKNBYMjuPLGv9BrxDERQw8vt$KIKABAN1BScTs1WahAHZhrxDgfDJhAKa5Xva5thIHTHnPImDwThYsMMMB1JXA8KMHf+OMhPQLoP57oP11IsLPAiPKShIuDAH8ciAKYr+0GpPiXFiYHhcP5MYsynbfStPw$gDAGr4KNBMUgK$WfhrAzK8nK8rEmEU8zIOBvAc2D1VAh3QVz7h8MI+HjfpVAVhIlBM-5UjFphrS5HRS1hYZUs9uSCH6$u1yMtphaW4fpCD3z72HEwMAh8Yl$tRtpVIwWtpy8KIpYRh8rwQNHJs-ShrwM318WVyhAiU$r4MyPISh1nIWUtVib8h85VZ1DHh5i5sCGQ5tsBXHYMLOIHIvDsDMQS$SXHbvAAmPpCiW+Wp+XHYAcw+xYIMyfHy$H7p7P+Mw3Ky$RHofmIb+itiH1xayofmNsjbHIcyIbI1uy$iIIPI+aGh5PiH8Gfd5dQXv0HyIBF5qY8PiiqMCiQOq1SoUNqA2NgXHhoo7+nSTpTMqi5uxcW$TWSO9tHFzPX9TYNi+i+ySD+1xWCXe-TDuMSbHQbTo21uYS$K6+KI+fXbIsYYUXHbGz1thrzDXDsB8Shb0sSN0blOSphcYybnXafUqhZh8MCLltwW0rEFsOGzcYsS8JMphS8TDQBMBpVA6cFLHlBSbY8A3Aipbc3hM63AT1zeAb2obaaf$uSAl-mTpTtbrpDz3IWtp1vpIIFytVo-VbZp4IatsCLg7qsDutpPfD8pEpFgm5qLMfDRJg7N8Xt$Uqs7UiPEsaBpmpffGfV2Wi4$b8poKdcAtWrT9btSooMtiuQlusWE4JpmdPdv3VHb7xD$FZzdvwDffJ6mNpYRn7Vo6t-NH52YnI9hunDvNOd7DSRmVVfw7CKjLt37tnwR8K7$fM9VbDA+XflrYeJ5nlCCplSw7RNlwtFpHSPM75meUhNzgAtMSwGdoUM5wm0cXt35N6HZ40SFtaS4lP8HG3QNBHT32tIOi+8vrzfAKCSmMuJ4x9gVn2GftN2HQPCQu-NZADUi13E2htIm7Umja1nqfT1orE4RjIERYg$fx7o4Pn+6fgpgtIm8trNi5oxE1fOrC1rdD8Vr2uew73LUoRMiZ2JtP7fJUfFj172pSbNlaI5Dlom27hw$phE$Ujt22YfImdcZdUp3g7nxoTRvMZG+iHEIn6iXeHgs5t4lcpDlB3gdDAhoOJpHYOeHMisegf+tNtR2IEyXiFtISy7lmMZs3po$-pfLongKdHh9UipGDoI40cCnNZFD98704DJZifpYqO2$tsddABEt4CPNoNVPLSutjnN0JpfV+FNdiJheByRmjfmEdq7OwpCp0JPRZp7$yeOU3SEwiO2jrUrRUjfsof0LaOUMPODBV0LBJPDH9GEBHw1sndv7lulIEymsUHhOJp7FziNSapaunpl7W4ftpzsjVOZG7T3vv$CLBfPJ3QT4LBi3mtoGNLGBJDRdPU0LwJIppws9$vtCtQErIVE6aHhsO25lgwZ49yOPUceiN$pfug8DBUCuMJTfI7UDX8srz8JT7Eo96YyV2d1J+7EUfuiCpTpBJHdj3G1aJs9mnC8r9874rFjUSfex1B7Gs4tLnmgttMTIKHm7VrQo47hjrNEHzN6P5z$lgewCwxUCNDM+lgfXUut+5JjZEVHG$WwcUQmqydpPI2w4dGSivZ1fw+Vhm7m48L-jDwo34U4mHt+5-HOACIJldrd-7jSlNHYfTUcuA9C-Dz6xf5t1u8ML7udUdKctdQ7M$slQB+iT5qUmoL5vrR9rYijN8JcSyaO1Y6sTu3M65anBLp7m48FOCp92FHt52c3YfOi$i+fS4sii5liJ9801jVd2edJyUQvvDI2tN5Rp9f$co1JJIpwbeMUxfGnPM$UPwmRcTlwSpjs5w35PUI3edoU9oje7IU8Ld4zqjvPrRJVTfj-IfgERORtQUnfMotqijzgRcXd9l$UKojzglEv4ftUIG4jsRMSqtiWNNmZSBREEYfwR$4qzpTUPs6jTFrKdUPlRd5RVNfMm+q4o5nEx$VLOhGSViDCcf2dcwnE+2XfBdLvXLPUiLRsRFEqj+0DfJdm2Qr2RjDSIoxVpOCoI-Julixd6t1ltN1$tlzsdEn5Fi4h3UKNnpzm5F00R$uhIfiq1sJbr6KFLpym-mrlzM6Kv0UTVB8gvcDJrp9OEsneUy-ZJvJMpPUzml7iv-v3hKTwcMJng5cv6hoty3EfFviltFt2DqC7SW25FDVRJiqfEUyoKJCtgqs2U8gMumJSDGIZqaBCFPs6-U7uMSRhattfRnZFrxsNMZ7tIj2UtsbGhwZ7CToFXNY$i8fqmY4hvOAZfV0wKmjBwyjQiK17p87zePyjQG1+9npLe4ZzmuImgJeY7z+9yjQsc7iJ-mloIQlNYNilpUaYe4D9hpMg11+MuhDtUd2lmJJ6SgATvtIsRElmaLxpUgL5XjfEaQEDpmy-1SH+voyRJWVgwlUgLxfUSHF+glZh1Kzz2LyufjJhM1KKnP-S6$Z6Mwsg+PTNY84RpxOuug7V9Ee5Z6lrdL5oS-U6$Z65ae1H2BLbuUrfWw12gInvjUHYRxXsqWoKFKbZrJ7Iz7$ImC-edguIPz5g3TLogBrBPK3E+nsL2zLHHDonpQalJsimZ9nauKzuf1Ro5Z9ySo2JasS5t6jmISBKjmBz04FrBpY7JQSu$BiGg+qNNtLaxULYT7oNpIKohOEDnzZ4coKd8my1dt$f4YRJ1Panmie8a6TNTiR451CpGg6Ta3qUQh7ieCSipE+gaI2LQ4AKV+oqqvo+pq8RrwhPTf$aSWvQ2stxXzL6RP1o-B0qXHzlM1P15NRrfdIG7$aP1RQWtL6Nv253rpWnYZ6GX4LTBHCWe5ZLAjftTfhCwexSVVSqg0IhDiexMvLqWSQIrE37fmJztJg-tNs6apRUc$OvdpwvtiQmGTXYgAhpsvibWwlG0Kn1W1SeWeTEtBgeSVDRnFrjHwEJU$QE6nEpVIonU$aJMAieV0f8nwC2ysbpGmBHdsLQRGlPTTo9ZoL2d1CsGUT2LSeU4OSONXfOiBF$bm$fCs5dv2PGSymdp$p2E53PqzP$Qwnpdd2po7Cx+9HKsMizdP+GzZT78sdiFpRgR6+7HYOBd7NdpD6Efzs74PJfHbi4wBeGsQoyZs3ZNuC$0v2tCWRVBY9fzdyEKRyU1SLtaPf-bA$F0lYagOpvgTeShdpivlApWtwj98v+fa4Xz32rx4nZZjofzmV2N57FGzG3jLRgvGERjU6dQpgemMNp$lGApo2lMqyFD$e+yBSisAMph+Nm+LDVtzp-Kllbdd3NDTAmRvxjigdoenVcMUpW8Pp4ldK+PmXW52VF42ixdLd7OonOJtJsoGAHSUZbVdCuBY9AhAKe5hzHeF4ucHWK4tGSD5iGdrm5miSGSp8hfpfwyKha11jtiOTTHTWZt5wvRSyT6HOETaqS$baC4WpBZOiJ1J+Ifib$JOVo$s4VSmTWmm93QJ1-Xh2Tb$YK07TiOuImTj40U8EpwNQFELO22zBilK6Se8+zJ7tLx--xtiF4lMvrV$edREEFEaijlTEWvXj8yVApfZdfprmHfrj-QjlmUV0dfUIDswgZl4uzUYsN2gerLsP3nVadI2$jRBpvHL4tmrTnxHy8TRKZJpuyV4Svcq66CXpb25hsBLzoFifGgEtp$gICPaiHwGHepGrm8lh4yqCGy8pz+EiB-yvfdmAMBBzrhLrHaj+jVlvHBe6jCVTemXZ7XUgsDF15j55hh2OW4MjeivjmRgcUgHvpwR9oGah8RwKBmMKZ8jlFfjLuIJrDRKFlR9aLEHiHBBx3fCTfl0ZvviB81DR9CtJBVxBLvZh8+m$m0zBZytyOA$n$NENguPxFCT9WKlOxzvhN-gR9y+vng7GIvA$SGjCGtO8uHxAepv0j7C0GBVSKS5f-36CFoirxmhWyc8fjKRjcvHhXUR3+vsYZcejhhyv394iecEsChUqJWmyD6ZqvcS66JrRO8b4d$HMq7GAjZCpzUfsgG7wNJG2y2$JSPUEJcKztbB9pSPC79G8SE5ip9jhDDSZPqYx759xNh6RMZ28$VgjMhY9Q60r0WSKxNFrDh2tuV7yEP9PioJ-qxDgNe+opv5rLLJ7JuW4PhVDIpXVpMyn9ope4s8N5sUYBzl5Y9W$JymNmg8+NFDCwjfGu1bMjPbH3nlCG7rKpaFyB43T-8zh0MaF5NdujW0MT2JjPl6Gw-TPXfDMjPVdEJCO$bmhvVPI9uMjJxorbx4K-Zm3B1FHBsMIsRp4u-CmPlSwbPC7ibKfuMpU21a4CfNwCrfioQWBryr7e$0+vQpKS1QR94AGw4EPFRDZMAVMpgwFunj9g0dPZY$hVzQpXKRJm3oIU0mK4EI9ARBCBJ7uso7NvMRBv7Ts$Kac3mnHMM7pudog9znnLgHUKSR2F9o3jBsYD2$LUKaESPjOPlKgAYOarKO3Us-Tx+a$frAj-P04Kzza43QUnLFOldOMA8QVDh+hCrgc+5Dmqm+J30StDn28v47+lpN0sVHTa+rEd7vaxtsBvr4Zy1D80-zKavFutfGZACEt-2I55r2fjsd-yrKttUQJWXmzf17ME3I+lCX2ryKIunQjOFTsWUi5j5xlhf8dZuU5i3ljpSx98PPeCrGh62Npm23ECOYvjJ8557-dVhmL43Pnn9M9HIxDt$3yBlQZvwt2P4dcwKIDh9m8VTmd8uB4CI9iSJsZYEpgq$+qJtXFT+R15bAH7RxxSujfc1ujNHT6mhhhf-pbH6FLrjlsfdRKKC1HP+0ymgM$3yydY9Hd8zKaNv+yu-8eJZZd5d3STNGJwZZl$S$mOC1vVeqbvdSJlIon1pBdfadSlAYEudxnduzeMlN8geA$HU+x1MzAng5EFqxo5FyismCgcB781uyvuRIrz0j9GHY1M823Q4ZobZ9mZSF8oeJ0lof5uEjNzV-cjKWmUl3fyA2-q03ABwpqwJltzSWiq0GhO265rBLXBTF3vdMNKYx9jV-r3DdS$KR8629HUIK7mLpH7PzPpvYYoMc7NWucE6vZpqyENx1TXlRJKdOjyB3WYa8Hssd+wZlWn9tjbv+s0y9$pWv0L8HchxAg3$-bbLld0hUp4AuIHMXTCLusQjpVnxI9HiGTJBg7aIoRU6mK2NGS7opdz4z2B2+oSj-mhaUAGcFBcRg4RRyiZXJMyHglOoats+pTYyfGfFxLpDweLt-2-pTp4Kp3ofmGBOEC-O96wvfM2Qi8$zcoLChYlhjIBPpjfhXm0h7mTKMX$KNc0swxxj3C-34CytzPvyxR+zQ7o79Xftp6pC2076+enmDDVtaQeSc7neO0HIVs56i9J$eoGp3AivODH7LnOxF+VC2SdZl3NJwy29WHij+0GQoJwjUbHw0l5+5qQez23zvNrbGLLvJ+VlJWNAV0JxyGfuCQ6KEFppqi$fvuy+fY6ppqC28VH4OMTcv3vOShV270ROSizz4mfAnQXTj92Mu8ca51Jyi3eFlO11PQXzMfNt7p7ADEpiiEyvXjyOznMugjAIE$oXtu9EozMvWV6mS9DcTa5MdWVonZXUprBIC2reIg3pCN-3V8UjOBMPhZNUDNpOdBmSLhnatVYHJWX1V1L0SJ31o++gaD2M9m4VyeRjOfaCGuh$lXMMCFKp-7$10E-ESsuQ3cvfeAmFyJpGUihZAo6uH8PqwzSUimmGKWlyhD9zELlzv5jDsUMdht2dLLBlz--onq3V4MI5ue+tLjKrrlp3EFR7msyhVfSjK7XpyZUj+FOvovw0-m-dRUdwQeDu5-EhXGzcuZnG4SFMf$$+8BZxmlRUJzRW0iKVhnLTnVpX5nBodqEeDpGDNHtfV0QHZKv2CV$+StGPryjFz4hvLVgygTpoDhPxqqsX$qIwT5jzz$$fMrgIwdJJzSQpD1n4RAE9zU7CJ++lyOKcFw7RjXFU4ul12jWwlTYniKfdyThPDvyGCFQGXf2EAbB50uOFGTfEPBoQLRI7Lgl9OLyt9u4IXJmEgbuBDx5Nn4rvMK+jjmn20cK0jjL+zESWc7AK0wBwVLt5$P$jG2JyFuJE6p$9hzgFv$OaJIxhghLYSJIQQB$NO99oCh5F-zBNm8v4tHqTU6$eawfSqGbldu2qGtPptTGRlMDHmitNRzE2VDWuNMKi7-9jvn7wI7joQzFiEmQPLIXiPo9QEyVqNazsim-KTi4hbwYD+10QIlM3ZJGpHqfHEcSRU+0qWtmJqQAm6EO$pYUAJrTJwjZ43GjJPDi7MMDiiZSgAzv2-F26fe8goHwiHiSJDNe5TWuFeyUlJlbGuV3L2vzizdP7COMdHO7KdQa+$UoozHDA6Q55sC1WfxpT4K49Jd-tZjnUdA-CpBVcD8S3OYi6WF7STtWDLO6np-UXUlycDhHdtZictsK28J3HFfs5oUGewHyF$-ZUREExz0x2mE$pPf0Nae0zZxEh+XjMr-89DZ+Esp9xpG4oCMJAKluR881L-VP4HHzeXjreufd7UUS9ETa5eMOLxo-glBajiEs5mJTrpoBr8esvZtmZVHfBF$1sltSccAKNuf-pKLQ81Z4xmBh3G19aejonx2Br$1eLv0uhRy072dvZMb2bMv2RMTUdd9-fFmnQ0BK2lxDJOmmGB5yOQI+BECVnEK$RxmEeGY2ZNMP8a$1KHKg8ZJANZR291tUYUxT1D$Rz5jd9JJJSEvbKrvS7zimGTBlRUm+BdneoYZCDIS49f8vRU7gcxjEy8vA9-8$jc1$sbcid-+5MBLw2pxUSVnTxe7ewPT9Zid+cNoM7+Atp84yDg8fYptW9rrKVfPLoZ5+cIwUSAniVom$pG9z2ddLdPcZatsi4Shd9JC4rjIZRqoLzUeOTZwxwBrgcaTFCuwD+hhFjBdLNXqTwaRIOLou3XNsVIxDIH9z891DxTptDIswT6m-mxojoX$dtoea47yZDyQ8ChXqDBeFmMHGOS-px+GR9YPwipTrHhfUaCgPwjSRlNrL6ZqKHM5ZF39CVfpf9PhQ5JXw83j7EMniF+RjE22hYCmlKuuNoA5a3CMaDJIsfX+RLiBBfK+yB9aQSU6ErmKgz3dWnGzNLNQ6i225j-w97f1DiNOHirDWH8hpdcJvD5nd+Z2s9mjt9CRE3yR-abM4ptO2s0DPxCidPCI3biRKU5i43AuyCKz+fuCERDKN6NbCbf21Xt1B+6tPjmtV75$ie2Bij-WV2qeZNaBE0s-AuUS9YV6BIJAzhrjBLxPJyFCVvgp-F+zeucRzr1C3UsYjzI7I4+OUdnl5Yr$peMruqjqE16f676zZE5VsGx0YFcqAtDGJUgPOA6cu8HW5pygotXbcJBLhByz-MR$V-Lg4mSpblpmJztjjrryretr2eGA1VHFdBLdxQHnGYwlD+5RnSNO4tLX9NHUV02EX6cKVy2cCh73Dm8+2AmVu$hf9JMaGJ8K9DSyx+Q$gGLgZi+S5Fe-MP$RdENvGiFSefbR7spiKSqIdP9s7Bi$NpyV5dhsf5jdj1$MnGy0zJ5bRn1s7bE+OSTUxdd1Un$CJRrqfo3v98-JnfTrYa5OBnVXGlxmmy4n8dtmDddi941+eVyCH+U4pr8dp2V4ORKjjFrGzuNw0d5frdoKgNqXnJf$5WUVCXXGc1Pmgtm$LF8I5SwyQCMjRYfRNlMZJCmfD9FRBzANQfSmeEonUfWEWCVrswg$IqNjqRU3X9GiE$POQeFwChD-gPdyL$qMwuFQzyynuMVEF-it4Eox2O2l7gPimu+mD66f$mzI8SOgM8d9Br80$Lvizl7DROAGM8uOinIx27fWp2LFVo+D9$cO8aEKS1YpDO6fUKUctPpRgNwIzFHjufBPl5LzfQfSirqodgJD2BIpwWtEpJHoK5DRNSOT5lugKOBIbOSTAYB$6ygBIBmjtzHajgCGMV8t58Qu4sad507JQeTDajLwZlFF5CPLS6lKyGoJ6N0GrcqoKINzXjMDtToHMs1$HtpooaTo5YG3pfv-Ac-ppuprOhxyFVsDtoHaDfa1JnY8GqfxeBS6KHLSmargdX4uQWdmbOmU5vZaNphgu$0$f6AsJdv4zfAKOpOH7aTomn2iSAQ1WlhYUisd2g29hxdhh9WmN9D1tgKfGw7EzvLRx$hsRhhb$Ccemx$h3VvDpS77PpYT-FThMyUV63NfYXxya0lMfpJC0Tu0BduDbUpJC$TpdpaxLSsRt10sR2pJDVgI2MX$flOo8BC0iIhG13AYiq3WlUjvR7vUxzKp$4lf9ljELhVVuTCSGWoZYJznFCrW2qPa$7nSB859bIt5Y$ffcA81t9DL30fZScdtNm79i80V$aLS3ArcLLwlawxDpJisT0X0OGQOddLIH8DfFN8Y6st8hZ5ooPmfqhhYlWEnCLBRAeDVyB7$1D7aEAQtMWsDE1E9g0t$aplsRMgywx4Xonpp4g7btd3J4p+tpzu7uma73cZ1B39HWcIn2vSAqKwdYmXW-OYq+dxIBzQW+nuNnEfHciUfpKnxfl5v5jLnc6W6HGC4i+vIeKtK3t1QXlUbFGoVAtlBD8NvBuyiqoUXOdPDPxuh5svhSpRTn1$am$cI1xJwzU+5u4yDX7iNRXFy417otM5PpUSBI$$$z4Fm4hUowG03ITzXnU6$fCP$F73vRvC5j9vvfq8j1H$RU$EWPXLzwJKp0tQS13D4GdSNpu1+tcqAHqCU6D74QSlVBiu$D2ixf34pppKddnmNth7jNiMwt2dfLfEemumZOa21t7tqdG7H9Guna2BMgfGWusQQwL6npXNjNDpViQpp$9EZmciWhpS0Ol4xSpD5S0Ow4CEhcdiKzppKDsQj-NmaDIVGotmsBiJmpNsT1WVIOSm2-77fQoHa4zGtQpC0JjZ9ptmIRPtlSFTA+rBbW72PmlpYWUUPQpts6y48zM5u$malGtl0yezMGisgAxf7N9TIrHSGlhb2NRXpLHbSsUpV6j0sTvxhKFvQCpy0lpJxQh5Ni8-S0cTIUsh1yQNpW0feT+b8AKiu6M0EY0pPP1CbI-S0dY5Bd8yCmx6p6-XeHh85Tm5p56SY7io+GX2xKoNo7LpppsFLloTaC$tm2M0KD68K5qGiiKjxFNp3osMXbm+VHODt5dlmZgI07qC+9H-OUGHnGuXhxgHl4uywf+KFtLfcSREVwy8mabAw+EmblEuOtOAZX7ztVqi2KpFEzpOLBtsQ2MpCMo5DTVWu$pHRdFdaFLnegPpol-ts762Ze0ZTU78t5NefLeu$iamaW$YulopVgwpm1pnaz5$5RdViATpxtEpopDpUtp5Wnf5a-faaoDj+Nc6pvnnZgm+mtn1UgRaiGNmMir2O7iGJTYiiGIUSZSJmfPDaY64c1KQ4vhKETASp5tcqYEYjeMhqTZNLfppldsQ-EZSnLLjBPfINCPea-L-YzZJH$dpaadQsYhZfAAhKjXOLGU$uHXxKpntppTapp\",\"s\":\"0.12478587983364213:1727807208:zTmMA56GVHg2Y7x-Qm1BFPLGATgZ0DfMVU0nkLP_gkA\"}"
+    },
+    {
+        "url": "https://js-agent.newrelic.com/nr-spa-1.267.0.min.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://courses.rahulshettyacademy.com/cdn-cgi/rum?",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=2ba5d395-ea9a-4361-90b4-f029814442d2; ahoy_visit=59b26f4f-e44d-412b-90ef-b67b94001e62; ahoy_track=true; _afid=2ba5d395-ea9a-4361-90b4-f029814442d2; aid=2ba5d395-ea9a-4361-90b4-f029814442d2; site_preview=logged_out; _session_id=08719336f521d51f769b3339346f5389; __cf_bm=V5OvXfS8kCLP3fNNxHnlSlhsZMDdxomghsAiHrxX854-1727809227-1.0.1.1-8nqpFMMExrnAIMxmh2Wfvb4eVdEjrAYXM7.Y0ry.DlQ5_Jniath8s.4TDbIwXN3Xyd9H1VuDUXwlJP1mwpOXSw; __cfruid=09933efc83f0f06f5e694e51ef98346f6fc78878-1727809227; _cfuvid=_1IJAypFX2w.9krsKoKQNc7D0AQbmnXn4H5yQ.U.2H4-1727809227393-0.0.1.1-604800000; _ga_SL8LSCXHSV=GS1.1.1727809228.1.0.1727809228.0.0.0; _ga=GA1.1.34415941.1727809229; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%22db577776-a173-4488-853a-5a83cd4d5f7f%22; aid=2ba5d395-ea9a-4361-90b4-f029814442d2",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "x-newrelic-id": "UAcHU1FRDxABVFNaBAAPVFUF",
+            "content-type": "application/json",
+            "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjQxMDI3MjciLCJhcCI6IjExMDMzNDk5NTAiLCJpZCI6IjM1OWUzNDRjNGVmNTJjOGIiLCJ0ciI6IjY3OWI3OTc3NzIwZTIwNTAzM2RlMTUwMzQxMDNlYmVlIiwidGkiOjE3Mjc4MDkyMjk1MzEsInRrIjoiMjc1MDMifX0=",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\"",
+            "traceparent": "00-679b7977720e205033de15034103ebee-359e344c4ef52c8b-01",
+            "tracestate": "27503@nr=0-1-4102727-1103349950-359e344c4ef52c8b----1727809229531"
+        },
+        "post_data": "{\"memory\":{\"totalJSHeapSize\":66061865,\"usedJSHeapSize\":47434185,\"jsHeapSizeLimit\":4294705152},\"resources\":[],\"referrer\":\"\",\"eventType\":1,\"firstPaint\":4181.29999999702,\"firstContentfulPaint\":4181.29999999702,\"startTime\":1727809224993.8,\"versions\":{\"fl\":\"2024.8.0\",\"js\":\"2024.6.1\",\"timings\":2},\"pageloadId\":\"1cdad340-07d9-4f99-804f-6179b9c4a42b\",\"location\":\"https://courses.rahulshettyacademy.com/\",\"nt\":\"navigate\",\"serverTimings\":[],\"timingsV2\":{\"unloadEventStart\":0,\"unloadEventEnd\":0,\"domInteractive\":3963.89999999851,\"domContentLoadedEventStart\":4232.89999999851,\"domContentLoadedEventEnd\":4253.699999999255,\"domComplete\":4531,\"loadEventStart\":4532.199999999255,\"loadEventEnd\":4534.29999999702,\"type\":\"navigate\",\"redirectCount\":0,\"criticalCHRestart\":0,\"activationStart\":0,\"initiatorType\":\"navigation\",\"nextHopProtocol\":\"h2\",\"deliveryType\":\"\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":0.7999999970197678,\"domainLookupStart\":6.5,\"domainLookupEnd\":89.29999999701977,\"connectStart\":89.29999999701977,\"connectEnd\":236.79999999701977,\"secureConnectionStart\":159.79999999701977,\"requestStart\":237.09999999776483,\"responseStart\":674,\"responseEnd\":761,\"transferSize\":36554,\"encodedBodySize\":36254,\"decodedBodySize\":185435,\"responseStatus\":200,\"firstInterimResponseStart\":0,\"renderBlockingStatus\":\"non-blocking\",\"name\":\"https://courses.rahulshettyacademy.com/\",\"entryType\":\"navigation\",\"startTime\":0,\"duration\":4534.29999999702},\"dt\":\"\",\"siteToken\":\"2fe3cb09fc744bb9aa2f83b5c132124b\",\"st\":2}"
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "http://qaclickacademy.usefedora.com/sign_up",
+        "method": "GET",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "url": "https://bam.nr-data.net/1/NRJS-b03a81825af9fa162f6?a=1028318214&v=1.267.0&to=dAxdTUFZXVQEQh0VBFAGQBZBWV5M&rst=4776&ck=0&s=2ba9118e06acb753&ref=https://courses.rahulshettyacademy.com/&ptid=769d3b0f740e1376&af=err,spa,xhr,stn,ins&ap=202&be=674&fe=3860&dc=3580&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1727809224994,%22n%22:0,%22f%22:1,%22dn%22:7,%22dne%22:89,%22c%22:89,%22s%22:160,%22ce%22:237,%22rq%22:237,%22rp%22:674,%22rpe%22:761,%22di%22:3964,%22ds%22:4233,%22de%22:4254,%22dc%22:4531,%22l%22:4532,%22le%22:4534%7D,%22navigation%22:%7B%7D%7D&fp=4181&fcp=4181",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "content-type": "text/plain",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://bam.nr-data.net/events/1/NRJS-b03a81825af9fa162f6?a=1028318214&v=1.267.0&to=dAxdTUFZXVQEQh0VBFAGQBZBWV5M&rst=5400&ck=0&s=2ba9118e06acb753&ref=https://courses.rahulshettyacademy.com/&ptid=769d3b0f740e1376",
+        "method": "POST",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://courses.rahulshettyacademy.com",
+            "referer": "https://courses.rahulshettyacademy.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "content-type": "text/plain",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        },
+        "post_data": "bel.7;1,3,,436,436,26,'initialPageLoad,'https://courses.rahulshettyacademy.com/,1,1,,,,5m,!!'08c0dd0a-15f2-431b-b85b-dbb08cfea419,'1,385,385;2,,33i,7l,,,'POST,,'www.google-analytics.com:443,'/g/collect,,,1,'5,!!!;2,,3i2,4f,,1,4,5o,'courses.rahulshettyacademy.com:443,'/cdn-cgi/rum,15s,,,'8,'359e344c4ef52c8b,'679b7977720e205033de15034103ebee,m1qt07ev;2,,3a1,cy,,,4,5l,'eventable.internal.teachable.com:443,'/add/fedora-student/,b2,4,,'7,!!!;b,!!!!1,6,2a,,1z,25,,c5,2f,!2gz,7h,l,7p,1,2"
+    },
+    {
+        "url": "https://fast.wistia.com/assets/external/E-v1.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.recaptcha.net/recaptcha/api.js?render=6Le9jOUUAAAAAMKU_R7rTbi4JFAi6FXIhG5aBRHx",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/packs/identity--58854868fb07989858a4.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/packs/identity-eb8a6827d904ccde6733.css",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://themes2.teachablecdn.com/themecss/production/base.css?_=5e2cbf952f67&brand_course_heading=%23ffffff&brand_heading=%232b3636&brand_homepage_heading=%23ffffff&brand_navbar_fixed_text=%23ffffff&brand_navbar_text=%23ffffff&brand_primary=%232b3636&brand_secondary=%2309A59A&brand_text=%232b3636&logged_out_homepage_background_image_overlay=0.62&logged_out_homepage_background_image_url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FkItS8rO3T7CX22mgAxJb&show_login=true&show_signup=true",
+        "method": "GET",
+        "headers": {
+            "accept": "text/css,*/*;q=0.1",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/XS3x2qmoT7WF07Endb8a",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/assets/icons/google-1b50ce971cdee86155d814218fc927e0a56ebcc0adbe3a5b7a631cd682b9dc3a.svg",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://fedora.teachablecdn.com/assets/teachable-circle-green-8747bce39a92fe2e2e76faed853d5195d1104b65ca3835ddecb78dfb18336953.svg",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "cookie": "__cf_bm=a6XhdpAMXAfgDPlVX5tXng90uzpK537Ec2F_QA6LIWs-1727809227-1.0.1.1-6UBG14I.QaLkajxF2.AwhWpFL9HV1WqOyWGZH.66iJULO6MSuT8u779MRZcpORyNMAySBg.98hxcNmUWse9e0w",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://sso.teachable.com",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.gstatic.com/recaptcha/releases/xds0rzGrktR88uEZ2JUvdgOY/recaptcha__en.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://sso.teachable.com",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://cdn.heapanalytics.com/js/heap-318805607.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://sso.teachable.com/analytics.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=066e30a1-78cc-46b3-90e7-dc1249003f71; ahoy_visit=d0964a64-a381-4103-a82d-1b7fbc04d877; ahoy_track=true; _afid=066e30a1-78cc-46b3-90e7-dc1249003f71; aid=066e30a1-78cc-46b3-90e7-dc1249003f71; sk_zz8tw6dg_login_wizard=pXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg; _session_id=66f7f77bd28b2b2ae99e629efd7b425d; __cf_bm=s9Q7pLs2T4SRnRRcZ4g716lnLqgS57FVZgTf62OLT6A-1727809232-1.0.1.1-qzfRVSd1xICSOx52xuLmrf7lPx_ODp0ygXO.o6Yj2dD4kJpgXeJ7.SmIDxCkBc3N2wa_dA3SZ8vSKR1CRZGMzA; __cfruid=48cd7297601db3f8eeba02387587bc85cc207587-1727809232; _cfuvid=gju.8mkvtybzypENf6hJxNb73ov9LGbLhRslEM5mP8M-1727809232688-0.0.1.1-604800000",
+            "referer": "https://sso.teachable.com/secure/9521/identity/sign_up/routing?wizard_id=pXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://assets.teachablecdn.com/fonts/metropolis/Metropolis-Regular.woff2?v=1",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://sso.teachable.com",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://assets.teachablecdn.com/fonts/metropolis/Metropolis-SemiBold.woff2?v=1",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "origin": "https://sso.teachable.com",
+            "referer": "https://themes2.teachablecdn.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://heapanalytics.com/h?a=318805607&u=6064269572669384&v=4161923376833924&s=2296642916994898&b=web&tv=4.0&z=0&h=%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting&q=%3Fwizard_id%3DpXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg&d=sso.teachable.com&t=Rahul%20Shetty%20Academy&ts=1727809233824&upv=15.0.0&sch=730&scw=1536&st=1727809233825&lv=4.23.4&ld=cdn.heapanalytics.com",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://sso.teachable.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+        "method": "GET",
+        "headers": {
+            "accept": "*/*",
+            "cookie": "ahoy_visitor=066e30a1-78cc-46b3-90e7-dc1249003f71; ahoy_visit=d0964a64-a381-4103-a82d-1b7fbc04d877; ahoy_track=true; _afid=066e30a1-78cc-46b3-90e7-dc1249003f71; aid=066e30a1-78cc-46b3-90e7-dc1249003f71; sk_zz8tw6dg_login_wizard=pXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg; _session_id=66f7f77bd28b2b2ae99e629efd7b425d; __cf_bm=s9Q7pLs2T4SRnRRcZ4g716lnLqgS57FVZgTf62OLT6A-1727809232-1.0.1.1-qzfRVSd1xICSOx52xuLmrf7lPx_ODp0ygXO.o6Yj2dD4kJpgXeJ7.SmIDxCkBc3N2wa_dA3SZ8vSKR1CRZGMzA; __cfruid=48cd7297601db3f8eeba02387587bc85cc207587-1727809232; _cfuvid=gju.8mkvtybzypENf6hJxNb73ov9LGbLhRslEM5mP8M-1727809232688-0.0.1.1-604800000; _hp2_id.318805607=%7B%22userId%22%3A%226064269572669384%22%2C%22pageviewId%22%3A%224161923376833924%22%2C%22sessionId%22%3A%222296642916994898%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _hp2_ses_props.318805607=%7B%22z%22%3A0%2C%22ts%22%3A1727809233824%2C%22d%22%3A%22sso.teachable.com%22%2C%22h%22%3A%22%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting%22%2C%22t%22%3A%22Rahul%20Shetty%20Academy%22%2C%22q%22%3A%22%3Fwizard_id%3DpXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg%22%7D; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%22db117dd4-b814-4f2d-a5dc-5f304e61a12f%22",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Le9jOUUAAAAAMKU_R7rTbi4JFAi6FXIhG5aBRHx&co=aHR0cHM6Ly9zc28udGVhY2hhYmxlLmNvbTo0NDM.&hl=en&v=xds0rzGrktR88uEZ2JUvdgOY&size=invisible&cb=nlizzehq797b",
+        "method": "GET",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "referer": "https://sso.teachable.com/",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://heapanalytics.com/h?a=318805607&u=6064269572669384&v=4161923376833924&s=2296642916994898&b=web&tv=4.0&sp=z&sp=0&sp=ts&sp=1727809233824&sp=d&sp=sso.teachable.com&sp=h&sp=%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting&sp=t&sp=Rahul%20Shetty%20Academy&sp=q&sp=%3Fwizard_id%3DpXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg&pp=d&pp=sso.teachable.com&pp=q&pp=%3Fwizard_id%3DpXNErwTTUOUsrwbMHfAlh5iblWbPF2NpV2R3H2JZNKfTaVeuim_pNmvPpvsayrjQJQrl0miHrWvl-BrNqyQzmg&pp=h&pp=%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting&pp=t&pp=Rahul%20Shetty%20Academy&pp=ts&pp=1727809233824&id0=7035577277674721&t0=click&n0=button&c0=btn-primary%20button%20p-v-2-xs%20p-h-5-xs%20m-v-3-xs%20col-12-xs&y0=%40main%3B.p-v-5-l%3B%7C%40div%3B.col-10-xs%3B.col-6-m%3B.container%3B.m-auto-xs%3B.p-h-6-l%3B%7C%40form%3B%5Baccept-charset%3DUTF-8%5D%3B%5Baction%3D%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting%5D%3B%5Bmethod%3Dpost%5D%3B%7C%40div%3B.dsp-flex-xs%3B.flex-justify-content-center-xs%3B%7C%40button%3B.btn-primary%3B.button%3B.col-12-xs%3B.m-v-3-xs%3B.p-h-5-xs%3B.p-v-2-xs%3B%5Bdata-test-id%3Dsign-up-with-email%5D%3B%5Bname%3Dsign_up_method%5D%3B%5Btype%3Dsubmit%5D%3B%5Bvalue%3Demail%5D%3B%7C&ts0=1727809251149&x0=Sign%20up%20with%20email&sch0=730&scw0=1536&upv0=15.0.0&id1=5162948746284700&t1=submit&n1=form&y1=%40main%3B.p-v-5-l%3B%7C%40div%3B.col-10-xs%3B.col-6-m%3B.container%3B.m-auto-xs%3B.p-h-6-l%3B%7C%40form%3B%5Baccept-charset%3DUTF-8%5D%3B%5Baction%3D%2Fsecure%2F9521%2Fidentity%2Fsign_up%2Frouting%5D%3B%5Bmethod%3Dpost%5D%3B%7C&ts1=1727809251150&x1=Sign%20up%20with%20email%0AContinue%20with%20Google%0ALog%20in%20with%20Google%20is%20no&sch1=730&scw1=1536&upv1=15.0.0&st=1727809251151&lv=4.23.4&ld=cdn.heapanalytics.com",
+        "method": "GET",
+        "headers": {
+            "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "referer": "https://sso.teachable.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    }
+]
