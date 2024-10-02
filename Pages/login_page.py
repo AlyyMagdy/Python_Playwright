@@ -3,6 +3,7 @@ import json
 import logging
 from playwright.sync_api import expect,Page
 from Utils.data_generator import *
+import time
 
 # load_dotenv()
 class LoginPage():
@@ -15,16 +16,18 @@ class LoginPage():
 
 
     def login_with_random_data(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         with open('./Test_Data/generated_data.json') as f:
             test_data = json.load(f)
+        time.sleep(2)
+        self.driver.wait_for_load_state()
         self.driver.fill(self.email_field,test_data['username']+"@gmail.com")
         self.driver.fill(self.password_field,test_data['password'])
         self.driver.click(self.login_btn_form)
     
-    def is_user_logged_in_successfully(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
-        return True
+    # def is_user_logged_in_successfully(self):
+    #     import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+    #     return True
     
 
     def log_requests(self,page, requests_data):

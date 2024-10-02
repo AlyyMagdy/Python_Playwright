@@ -3,6 +3,7 @@ import json
 import logging
 from playwright.sync_api import expect,Page
 from Utils.data_generator import *
+import time
 
 # load_dotenv()
 class RegisterationPage():
@@ -53,6 +54,7 @@ class RegisterationPage():
         logging.info(f"============== filling password : {test_data['password']}")
         self.driver.fill(self.register_password, test_data['password'])
         logging.info("============== Clicking on Sign Up Button")
+        time.sleep(5)
         self.driver.click(self.signup_button)
 
     def is_user_registered_successfully(self):

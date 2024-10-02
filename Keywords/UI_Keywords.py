@@ -6,7 +6,7 @@ import json
 class UI_Keywords():
     def __init__(self):
         self.requests_data = []
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         self.driver = Browser_Init.get_instance()
         self.registerationPage = RegisterationPage(self.driver)
         self.loginPage = LoginPage(self.driver)
@@ -40,23 +40,23 @@ class UI_Keywords():
         self.registerationPage.register_with_random_data()
 
     def user_register_with_existing_generated_data(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         self.registerationPage.register_with_existing_random_data()
     def user_registered_successfully(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         assert self.registerationPage.is_user_registered_successfully(), "Account Not Registered."
 
     def user_login_with_random_generated_data(self):
         self.loginPage.login_with_random_data()
 
     def user_logged_in_successfully(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         assert self.registerationPage.is_user_registered_successfully(), "Account Not Registered."
 
     def verify_error_message_appears(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         assert self.registerationPage.is_error_message_appeared() , "Existing account got registered again."
 
     def verify_compatibility_in_mobile_resolution(self):
-        import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
+        # import sys,pdb;pdb;pdb.Pdb(stdout=sys.__stdout__).set_trace()
         self.homePage.change_mobile_resolution_and_verify_compatibility()
